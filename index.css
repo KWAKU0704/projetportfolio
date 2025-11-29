@@ -1,0 +1,224 @@
+body{ background-color: lightsalmon;}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color :white;
+   align-items: center;
+    padding: 30px 50px;
+    border-color: white ;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+*{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+button{
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+}
+.section1, .section2{
+    display: flex;
+    align-items: center;
+    
+}
+#Info{
+    background-color: white;
+    color: black;
+}
+.projet{
+    background-color :black;
+    color: white;
+    margin-left: 20px;
+}
+.texte{
+    flex: 1;
+    margin: 100px;
+    font-size: larger;
+    font:900;
+    
+}
+.image{
+    margin: 100px;
+    border-radius: 20px;
+    border-color: black;
+
+}
+.yu{
+    font-size: xx-large;
+}
+.pic{
+    border-radius: 20px;
+}
+.sec2{
+
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    text-align: center;padding: 30px;
+
+
+
+}
+.di{
+    font-size: 30px;
+    color: lightsalmon;
+    text-decoration: solid;
+    font-weight: bold;
+}
+.alia{
+    display: flex;
+    gap: 400px;
+    border-radius: 100px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.liam{
+    background-color: lightsalmon;
+    text-align: center;
+}
+.lia{
+    background-color: lightsalmon;
+    text-align: center;
+
+}
+.li{
+    background-color:lightsalmon;
+    text-align: center;
+}
+.sec3{
+text-align: center;
+background-color: black;
+color: white;
+
+
+}
+.lion{
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    font-style: italic;
+    padding: 20px;
+    background-color: white;
+}
+div.description{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+}
+.gra{
+    font-weight: bold;
+    color: darkcyan;
+}
+.web{
+    font-weight: bold;
+    color:darkcyan;
+}
+.dev{
+    font-weight: bold;
+    color: darkcyan;
+    
+}
+.form{
+    font-weight: bold;
+    color: darkcyan;
+    
+}
+.format{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+    background-color: white;
+}
+.disc{
+    list-style-type: square;
+    text-align: left;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    
+}
+.comp{
+    background-color: white;
+    font-size:40px ;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+.aperçu{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+.skil{
+    list-style-type: square;
+    font-size: 20px;
+}
+.phone{
+    text-align: center;
+    text-align: justify;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    gap: 30px;
+    
+}
+.but{
+    color: black;
+    background-color: salmon;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.formu{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    justify-items: flex-end;
+    margin-left: auto;
+    padding: 20px;
+
+
+}
+.para{
+    text-align: justify;
+    text-align-last: left;
+}
+.télé{width: 25px;
+
+}
+.local{
+    width: 25px;
+
+}
+.gmail{
+    width: 25px;
+}
+.cont{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
