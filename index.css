@@ -152,7 +152,6 @@ div.description{
     list-style-type: square;
     text-align: left;
     font-size: 20px;
-    background-color: white;
     color: black;
     
 }
@@ -170,6 +169,7 @@ div.description{
 .skil{
     list-style-type: square;
     font-size: 20px;
+    background-color: lightsalmon;
 }
 .phone{
     text-align: center;
