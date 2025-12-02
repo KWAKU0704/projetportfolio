@@ -107,8 +107,8 @@ p{
 }
 .sec3{
 text-align: center;
-background-color: black;
-color: white;
+background-color: white;
+color: black;
 
 
 }
@@ -155,8 +155,8 @@ div.description{
     list-style-type: square;
     text-align: left;
     font-size: 20px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     
 }
 .comp{
