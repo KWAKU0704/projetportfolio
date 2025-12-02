@@ -6,7 +6,7 @@ header{
     color :white;
    align-items: center;
     padding: 30px 50px;
-    border-color: white ;
+    border-color: white;
 
 }
 nav{
@@ -69,7 +69,7 @@ button{
 }
 .sec2{
 
-    background-color: black;
+    background-color:black;
     color: white;
     font-size: 40px;
     text-align: center;padding: 30px;
