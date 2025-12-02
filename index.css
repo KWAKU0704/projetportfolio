@@ -107,7 +107,6 @@ p{
 }
 .sec3{
 text-align: center;
-background-color: white;
 color: black;
 
 
@@ -118,7 +117,6 @@ color: black;
     font-size: 40px;
     font-style: italic;
     padding: 20px;
-    background-color: white;
 }
 div.description{
     display: flex;
@@ -149,7 +147,6 @@ div.description{
     font-weight: bold;
     font-style: italic;
     font-size: 40px;
-    background-color: white;
 }
 .disc{
     list-style-type: square;
@@ -160,7 +157,6 @@ div.description{
     
 }
 .comp{
-    background-color: white;
     font-size:40px ;
     font-weight: bold;
     text-align: center;
