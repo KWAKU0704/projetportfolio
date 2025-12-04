@@ -223,7 +223,7 @@ div.description{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 20px;
+    gap: 50px;
     flex-wrap: wrap; /* Empêche le débordement */
     padding: 40px;
     background: white;
