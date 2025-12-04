@@ -236,4 +236,9 @@ div.description{
     object-fit: cover;         
     border-radius: 10px;
 }
+.description{.description {
+    font-size: 14px;
+    margin-top: 10px;
+}
+    
 
