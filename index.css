@@ -275,7 +275,7 @@ div.description{
 .bar {
     flex: 1;
     height: 10px;
-    background: #ddd;
+    background: white;
     border-radius: 5px;
     overflow: hidden;
 }
