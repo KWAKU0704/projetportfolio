@@ -222,18 +222,18 @@ div.description{
 . description {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    gap: 100px;
+    align-items: center;
+    gap: 20px;
     flex-wrap: wrap;
     padding: 40px;
     background: white;
     border-radius: 10px;
-    margin: 60px auto;
-    width: 90%;
+    margin: 0 auto;
+    width: max-content;
 }
 
 .serv {
-    width: 220px;
+    width: 250px;
     background: white;
     padding: 15px;
     text-align: center;
