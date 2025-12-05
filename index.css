@@ -299,7 +299,7 @@ div.description{
 .level {
     height: 100%;
     width: 0%;
-    background: linear-gradient(90deg, #ff7f50, #ff4f2f, #ff2b00);
+    background: white;
     border-radius: 12px;
     animation: fillBar 1.4s ease forwards;
     animation-delay: 0.3s;
