@@ -253,26 +253,6 @@ div.description{
     transform: translateY(-10px);
 }
 
-.competences {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.competences li {
-    display: flex; /* met texte et barre sur la même ligne */
-    align-items: center; /* centre verticalement */
-    margin-bottom: 10px;
-}
-
-.competences li .barre {
-    flex-grow: 1; /* prend l'espace restant */
-    height: 20px;
-    background-color: white; /* couleur de fond de la barre */
-    border-radius: 10px;
-    margin-left: 15px; /* espace entre le texte et la barre */
-    overflow: hidden;
-}
 
 
 
