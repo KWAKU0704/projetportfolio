@@ -252,6 +252,41 @@ div.description{
 .serv:hover {
     transform: translateY(-10px);
 }
+. niveau {
+    list-style: decimal;
+    padding-left: 20px;
+    max-width: 600px;
+}
+
+. niveau li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    gap: 15px;
+}
+
+.skill-name {
+    font-size: 18px;
+    font-weight: 500;
+    width: 120px; /* espace réservé pour le nom */
+}
+
+.bar {
+    flex: 1;
+    height: 10px;
+    background: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.level {
+    height: 100%;
+    background: white;
+    border-radius: 5px;
+}
+
+    
 
 
 
