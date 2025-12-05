@@ -247,6 +247,7 @@ div.description{
     height: 130px;
     object-fit: cover;
     border-radius: 10px;
+    text-align:center;
 }
 
 .serv:hover {
